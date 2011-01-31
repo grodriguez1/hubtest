@@ -1,4 +1,4 @@
-class HiWorld
+class HuuuWorld
   def self.hello
     puts "Hello World from Ruby"
   end
