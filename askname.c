@@ -1,7 +1,7 @@
 /* askname.c */
 #include <stdio.h>
 #include <string.h>
-
+#hey editado online men
 void askname(char *first, char *last)
 {
 	printf("Enter your first name: ");
